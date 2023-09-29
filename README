@@ -1,0 +1,20 @@
+# DJ Name Generator
+
+This is a simple web application that generates random DJ names. You can click the "Generate DJ Name" button to get a unique DJ name, and then click "New Name" to get another one.
+
+## Usage
+
+1. Open the index.html file in your web browser.
+2. Click the "Generate DJ Name" button to generate your DJ name.
+3. Click "New Name" to get a new random DJ name.
+4. Enjoy your creative DJ names!
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Credits
+
+- Thanks to Codecademy which guided this project! 
